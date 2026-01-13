@@ -1,2 +1,3 @@
-![Header](AstroStatsFull.png)
+![Header](AstroStatsBanner.png)
+
 
